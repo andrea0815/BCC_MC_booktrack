@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BookTrack</string>
+    <string name="mainscreen_title">ToDo Manager</string>
+    <string name="mainscreen_field_name">Name</string>
+    <string name="mainscreen_field_uid">UID</string>
+    <string name="mainscreen_button_save">Save</string>
+    <string name="editmodal_field_name">Name</string>
+    <string name="editmodal_field_uid">UID</string>
+    <string name="editmodal_button_save">Save changes</string>
+    <string name="decorative_android_icon">Decorative Checkbox Icon</string>
+    <string name="displaystudents_title">BCC Students:</string>
+    <string name="mainscreen_field_description">Title</string>
+    <string name="mainscreen_field_importance">Author</string>
+    <string name="editmodal_field_importance">Author:</string>
+    <string name="editmodal_field_description">Title:</string>
+    <string name="displaytodos_title">My Book Collection</string>
+    <string name="newBook">Add New Book</string>
+    <string name="startscreen_view_collection">View Collection</string>
+    <string name="startscreen_add_book">New Book</string>
+    <string name="addScreen_date">Date</string>
+    <string name="addScreen_imgpath">imgPath</string>
+    <string name="addScreen_isebook">I read this book as an ebook.</string>
+    <string name="addScreen_rating">rating</string>
+    <string name="addScreen_author">Author</string>
+    <string name="addScreen_title">Title</string>
+    <string name="rate_your_book">Rate your book</string>
+    <string name="select_a_date">Select a date</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="edit_book_title">Edit book</string>
+</resources>
